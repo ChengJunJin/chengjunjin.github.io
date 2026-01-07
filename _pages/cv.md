@@ -24,12 +24,6 @@ redirect_from:
 * **Economic and strategic perspectives on CDN pricing: A comprehensive review** *Accepted*, December 2025.  
     * This paper conducts an in-depth survey on CDN pricing mechanisms, exploring cost structures, pricing strategies, and economic implications to propose optimized frameworks.
 
-*(Additional publications listed below)*
-
-{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
-
 ## Work Experience
 
 **Korea University** (2024.11 - Present)  
@@ -81,18 +75,6 @@ redirect_from:
 * **Tools:** PyCharm, VS Code, Xshell, Anaconda, IntelliJ IDEA, Git
 * **Languages:** Chinese (Native), Korean (TOPIK 4), English (CET-4)
 * **Interests:** Basketball (First place in school-level competition), Guitar
-
-## Talks
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}
-
-## Teaching
-
-{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
 
 ## Service and Leadership
 
