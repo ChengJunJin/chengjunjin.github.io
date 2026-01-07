@@ -15,4 +15,4 @@ Previously, I worked at **Beijing CSII Software Co., Ltd.**, where I was involve
 
 Beyond research, I have hands-on experience in **full-stack development**, including **e-commerce automation** and **database management**. My projects range from **CDN pricing surveys** to **machine learning-driven data processing**. I am always open to collaborations in AI, networking, and large-scale distributed systems.
 
-Feel free to explore my **[CV](cv/)** and **[projects](projects/)** to learn more about my work!
+Feel free to explore my **[CV](cv/)** to learn more about my work!
